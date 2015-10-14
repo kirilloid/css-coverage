@@ -1,0 +1,29 @@
+{
+  "name": "css-coverage",
+  "version": "0.0.1",
+  "description": "Checks actual usage of CSS classes in project",
+  "main": "index.js",
+  "dependencies": {
+    "glob": "^5.0.15",
+    "walk": "^2.3.9",
+    "css": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirilloid/css-coverage.git"
+  },
+  "keywords": [
+    "css",
+    "coverage"
+  ],
+  "author": "kirilloid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirilloid/css-coverage/issues"
+  },
+  "homepage": "https://github.com/kirilloid/css-coverage#readme"
+}
